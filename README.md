@@ -15,10 +15,10 @@ front react js courses by appsdc
    * patoto
    * tamato
  ##ordered lists
- 1. alphabets
+ 1. numbers
  2. digits
      1. whole numbers
      2. natural numbers
      3. integers
-#how to insert the image in mackdown file(md)
+ # how to insert the image in mackdown file(md)
  ![TAJ MAHAL](https://wallsdesk.com/wp-content/uploads/2016/05/Taj-Mahal-pictures.jpg)
