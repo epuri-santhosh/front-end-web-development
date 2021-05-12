@@ -22,3 +22,15 @@ front react js courses by appsdc
      3. integers
  # how to insert the image in mackdown file(md)
  ![TAJ MAHAL](https://wallsdesk.com/wp-content/uploads/2016/05/Taj-Mahal-pictures.jpg)
+ # 12 may class
+ ## how to represent links
+ [codetantra](https://rgmcet.codetantra.com/secure/home.jsp)
+ ## how to write coding languages
+ ~~~python
+ print(santhosh)
+ def santhosh
+ ~~~
+ # how to make tables
+ table1|table2
+ ------|------
+ table1body|table2body
